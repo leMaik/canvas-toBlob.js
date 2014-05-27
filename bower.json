@@ -14,6 +14,6 @@
   "license": "MIT/X11",
   "ignore": [
     "**/.*",
-    "bower_components",
+    "bower_components"
   ]
 }
