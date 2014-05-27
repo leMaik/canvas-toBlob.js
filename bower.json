@@ -1,7 +1,7 @@
 {
   "name": "canvas-toBlob.js",
   "main": "canvas-toBlob.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/apitts/canvas-toBlob.js",
   "authors": [
     "Eli Grey <me@eligrey.com>"
